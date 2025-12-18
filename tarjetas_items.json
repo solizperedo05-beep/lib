@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1764042047640,
+        "product_name": "Ritchey Timberwolf Frameset - 2017",
+        "foto": "1764022624_Ritchey Timberwolf Frameset - 2017.png",
+        "category_id": 1,
+        "category_name": "Mountain Bikes",
+        "price": 749.99,
+        "created_at": "2025-11-25T04:40:47+01:00"
+    },
+    {
+        "id": 1764042234812,
+        "product_name": "Surly Ice Cream Truck Frameset - 2017",
+        "foto": "1764038998_Surly Ice Cream Truck Frameset - 2017.jpg",
+        "category_id": 1,
+        "category_name": "Mountain Bikes",
+        "price": 469.99,
+        "created_at": "2025-11-25T04:43:54+01:00"
+    },
+    {
+        "id": 1764042940906,
+        "product_name": "Trek Domane ALR 3 - 2019",
+        "foto": "1764022957_Trek Domane ALR 3 - 2019.jpg",
+        "category_id": 2,
+        "category_name": "Road Bikes",
+        "price": 1099.99,
+        "created_at": "2025-11-25T04:55:40+01:00"
+    },
+    {
+        "id": 1764042955770,
+        "product_name": "Trek Domane SL 6 Disc - 2019",
+        "foto": "1764023028_Trek Domane SL 6 Disc - 2019.jpg",
+        "category_id": 2,
+        "category_name": "Road Bikes",
+        "price": 3499.99,
+        "created_at": "2025-11-25T04:55:55+01:00"
+    }
+]
